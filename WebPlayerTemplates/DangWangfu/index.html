@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title> 欢迎访问大同大学虚拟校园</title>
+    
+    <script type="text/javascript" src="UnityObject.js"></script>
+    <script type="text/javascript">
+    <!--
+    function GetUnity() {
+        if (typeof unityObject != "undefined") {
+            return unityObject.getObjectById("unityPlayer");
+            }
+            return null;
+        }
+    
+    if (typeof unityObject != "undefined") {
+		
+		var params = {
+		backgroundcolor: "FFFFFF",
+		bordercolor: "000000",
+		textcolor: "FFFFFF",
+		logoimage: "MyLogo.png",
+		progressbarimage: "MyProgressBar.png",
+		progressframeimage: "MyProgressFrame.png",
+		disableContextMenu: true
+		};
+
+        unityObject.embedUnity("unityPlayer","%UNITY_WEB_PATH%", %UNITY_WIDTH%, %UNITY_HEIGHT%, params);
+    }
+    -->
+    </script>
+    
+    <style type="text/css">
+    <!--
+    body {
+		font-family: Helvetica, Verdana, Arial, sans-serif;
+		background-color:#FFF;
+		color: black;
+		text-align: center;
+    }
+    a:link, a:visited {
+    	color: #000;
+    }
+    a:active, a:hover {
+    	color: #666;
+    }
+    p.header {
+    	font-size: small;
+    }
+    p.header span {
+    	font-weight: bold;
+    }
+    p.footer {
+    	font-size: x-small;
+    }
+    div.content {
+    	margin: auto;
+    	width: %UNITY_WIDTH%px;
+    }
+    div.missing {
+    	margin: auto;
+    	position: relative;
+    	top: 50%;
+    	width: 193px;
+    }
+    div.missing a {
+    	height: 63px;
+    	position: relative;
+    	top: -31px;
+    }
+    div.missing img {
+    	border-width: 0px;
+    }
+    div#unityPlayer {
+    	cursor: default;
+    	height: %UNITY_HEIGHT%px;
+    	width: %UNITY_WIDTH%px;
+    }
+    -->
+    </style>
+    </head>
+    
+    <body>
+    <p class="header"></p>%UNITY_BETA_WARNING%
+    	<div class="content">
+    		<div id="unityPlayer">
+    			<div class="missing">
+    				<a href="http://unity3d.com/webplayer/" title="Unity Web Player. Install now!"><img alt="Unity Web Player" src="http://webplayer.unity3d.com/installation/getunity.png" width="193" height="63" />
+    				</a>
+    			</div>
+    		</div>
+    	</div>
+    <p class="footer">&laquo; 山西大同大学 <a href="http://www.sxdtdx.edu.cn/" title="Go to unity3d.com">版权所有</a> &raquo;</p>
+     <p class="footer"> 山西大同大学教科院VR工作室作品 </p>
+    </body>
+</html>
+
