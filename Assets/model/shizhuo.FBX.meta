@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: b74c22cd3a5f2de45881e990ede67936
+timeCreated: 1474889339
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ChamferCyl01
+    100002: ChamferCyl02
+    100004: ChamferCyl03
+    100006: ChamferCyl04
+    100008: Cylinder003
+    100010: Cylinder004
+    100012: Cylinder005
+    100014: Cylinder01
+    100016: Cylinder02
+    100018: //RootNode
+    100020: Torus005
+    100022: Torus006
+    100024: Torus007
+    100026: Torus008
+    100028: Torus009
+    100030: Torus01
+    100032: Torus010
+    100034: Torus02
+    100036: Torus03
+    100038: Torus04
+    400000: ChamferCyl01
+    400002: ChamferCyl02
+    400004: ChamferCyl03
+    400006: ChamferCyl04
+    400008: Cylinder003
+    400010: Cylinder004
+    400012: Cylinder005
+    400014: Cylinder01
+    400016: Cylinder02
+    400018: //RootNode
+    400020: Torus005
+    400022: Torus006
+    400024: Torus007
+    400026: Torus008
+    400028: Torus009
+    400030: Torus01
+    400032: Torus010
+    400034: Torus02
+    400036: Torus03
+    400038: Torus04
+    2300000: ChamferCyl01
+    2300002: ChamferCyl02
+    2300004: ChamferCyl03
+    2300006: ChamferCyl04
+    2300008: Cylinder003
+    2300010: Cylinder004
+    2300012: Cylinder005
+    2300014: Cylinder01
+    2300016: Cylinder02
+    2300018: Torus005
+    2300020: Torus006
+    2300022: Torus007
+    2300024: Torus008
+    2300026: Torus009
+    2300028: Torus01
+    2300030: Torus010
+    2300032: Torus02
+    2300034: Torus03
+    2300036: Torus04
+    3300000: ChamferCyl01
+    3300002: ChamferCyl02
+    3300004: ChamferCyl03
+    3300006: ChamferCyl04
+    3300008: Cylinder003
+    3300010: Cylinder004
+    3300012: Cylinder005
+    3300014: Cylinder01
+    3300016: Cylinder02
+    3300018: Torus005
+    3300020: Torus006
+    3300022: Torus007
+    3300024: Torus008
+    3300026: Torus009
+    3300028: Torus01
+    3300030: Torus010
+    3300032: Torus02
+    3300034: Torus03
+    3300036: Torus04
+    4300000: ChamferCyl01
+    4300002: Cylinder01
+    4300004: Torus01
+    4300006: Torus02
+    4300008: ChamferCyl02
+    4300010: ChamferCyl03
+    4300012: ChamferCyl04
+    4300014: Cylinder02
+    4300016: Torus03
+    4300018: Torus04
+    4300020: Torus005
+    4300022: Torus006
+    4300024: Cylinder003
+    4300026: Torus007
+    4300028: Torus008
+    4300030: Cylinder004
+    4300032: Torus009
+    4300034: Torus010
+    4300036: Cylinder005
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
